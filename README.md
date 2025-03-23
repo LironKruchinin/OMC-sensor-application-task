@@ -87,10 +87,3 @@ docker compose logs worker
     docker compose logs worker
     docker compose logs db
     ```
-  
-## Env variables for local setup
-- DB_HOST
-- DB_PORT
-- DB_NAME
-- DB_USER
-- DB_PWD
