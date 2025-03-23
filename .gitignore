@@ -1,0 +1,18 @@
+# Ignore PHPStorm project files
+.idea/
+*.iml
+
+# Ignore Composer dependencies (if applicable)
+vendor/
+
+# Ignore environment configuration files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log and cache directories
+logs/
+*.log
+cache/
